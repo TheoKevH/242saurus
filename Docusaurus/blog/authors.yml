@@ -23,17 +23,17 @@ slorber:
     newsletter: https://thisweekinreact.com
 
 Theodore Kevin Himawan:
-    name: Theodore Kevin Himawan
-    title: Product Engineer
-    url: https://github.com/TheoKevH
-    image_url: https://github.com/TheoKevH.png
-    socials:
-      	github: TheoKevH
+  name: Theodore Kevin Himawan
+  title: Product Engineer
+  url: https://github.com/TheoKevH
+  image_url: https://github.com/TheoKevH.png
+  socials:
+    github: TheoKevH
 
 Sultan Ibnu Mansiz:
-    name: Sultan Ibnu Mansiz
-    title: Ghibli Character
-    url: https://github.com/mansizsultan
-    image_url: https://github.com/mansizsultan.png
-    socials:
-        github: mansizsultan
+  name: Sultan Ibnu Mansiz
+  title: Ghibli Character
+  url: https://github.com/mansizsultan
+  image_url: https://github.com/mansizsultan.png
+  socials:
+    github: mansizsultan
